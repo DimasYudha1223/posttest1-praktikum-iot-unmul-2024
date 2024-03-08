@@ -1,8 +1,8 @@
 # posttest1-praktikum-iot-unmul-2024
 Kelompok IOT A 2021:
-1. 2109106005 Dimas Abdi Yudha
-2. 2109106019 Dimas Arya Nugraha
-3. 2109106048 M.Arvin Saskoro
+. 2109106005 Dimas Abdi Yudha
+. 2109106019 Dimas Arya Nugraha
+. 2109106048 M.Arvin Saskoro
 
 
 # Rangkaian LED Menyala Bergantian
