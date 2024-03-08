@@ -32,7 +32,7 @@ Komponen Yang Digunakan:
 4. 3 Buah Resistor
 5. 1 Kabel Jumper Male to Male
 
-
+#
 1. Design Schematic:
 ![SchematicIOTP1](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/ff7ddb0b-8cab-4e84-9c5a-c30a1c3e2704)
 
