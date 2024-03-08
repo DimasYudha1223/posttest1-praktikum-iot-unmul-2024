@@ -39,5 +39,6 @@ Komponen Yang Digunakan:
 
 #
 2. Our Schematic:
-![rangkaianP1](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/006185db-1e72-4583-b344-00cf1014e912)
 #
+![rangkaianP1](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/006185db-1e72-4583-b344-00cf1014e912)
+
