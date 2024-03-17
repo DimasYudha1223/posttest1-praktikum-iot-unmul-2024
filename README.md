@@ -30,7 +30,9 @@ Komponen Yang Digunakan:
 2. NODEMCU
 3. 1 Buah LED 
 4. 1 Buah Resistor
-5. 1 Kabel Jumper Male to Male
+5. 9 Kabel Jumper Male to Male
+6. 1 Buah Buzzer
+7. 3 Buah Button
 
 #
 1. Design Schematic:
@@ -40,5 +42,6 @@ Komponen Yang Digunakan:
 #
 2. Our Schematic:
 #
-![rangkaianP1](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/006185db-1e72-4583-b344-00cf1014e912)
+![rangkaianP2](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/b49f2af1-902e-4f8f-aa83-5a0d44f16336)
+
 
