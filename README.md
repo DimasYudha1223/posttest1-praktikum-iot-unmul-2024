@@ -1,35 +1,35 @@
-# posttest1-praktikum-iot-unmul-2024
+# posttest2-praktikum-iot-unmul-2024
 Kelompok IOT A 2021:
 1. 2109106005 Dimas Abdi Yudha
 2. 2109106019 Dimas Arya Nugraha
 3. 2109106048 M.Arvin Saskoro
 
 
-# Rangkaian LED Menyala Bergantian
+# Rangkaian LED dam Buzzer 
 Deskripsi:
-Rangkaian ini berfungsi dengan cara user mengontrol kedua LED (disini kami menggunakan 3) melalui webserver dan LED tersebut harus menyala secara bergantian, maksudnya tiap kita menyalakan 1 LED, LED lain harus mati.
+Rangkaian ini berfungsi dengan cara user mengontrol LED dan Buzzer dengan 3 Button yang tersedia, button pertama dapat menyalakan dan mematikan komponen, dua button lainnya untuk menambah dan mengurangi kecerahan cahaya dan volume tone buzzer secara bersamaan.
 
 
 Ketentuan Rangkaian:
-Buatlah rangkaian yang dapat mengatur nyala mati LED dengan ketentuan sebagai berikut:
-1. Terdapat 2 Buah LED
-2. Jika LED1 menyala LED2 mati, jika LED2 menyala LED1 mati
-3. Board terdapat 2 LED
-4. WEBSERVER diperlukan untuk monitor dan kontrol value Komponen
-5. NodeMCU harus connect ke Wi-Fi (bebas memilih mode WIFI_AP atau WIFI_STA)
-
+Buatlah rangkaian yang dapat mengatur kecerahan lampu dan Tone / nada Buzzer dengan ketentuan sebagai berikut:
+1. Kecerahan lampu bisa ditambahkan/dikurangi dengan kelipatan 3 (ex: 0, 3, 6, ..., 249, range 0-249)
+2. Tone / nada Buzzer bisa ditambahkan/dikurangi dengan kelipatan 10 (ex: 100, 110, 120, 130, ..., 2500, range 100-2500)
+3. Setiap board terdapat 2 button untuk menambah dan mengurangi value komponen
+4. Setiap board terdapat 1 button untuk enable/disable komponen
+5. WEBSERVER diperlukan untuk monitor value Komponen
+6. NodeMCU harus connect ke Wi-Fi (bebas memilih mode WIFI_AP atau WIFI_STA)
 
 Pembagian Tugas:
-1. Dimas Abdi Yudha = Merakit Rangkaian LED
+1. Dimas Abdi Yudha = Merakit Rangkaian LED dan Buzzer
 2. Dimas Arya Nugraha = Memprogram Rangkaian
-3. M.Arvin Saskoro = Merakit Rangkaian LED
+3. M.Arvin Saskoro = Merakit Rangkaian LED dan Buzzer
 
 
 Komponen Yang Digunakan:
 1. Breadboard
 2. NODEMCU
-3. 3 Buah LED (2 merah dan 1 kuning)
-4. 3 Buah Resistor
+3. 1 Buah LED 
+4. 1 Buah Resistor
 5. 1 Kabel Jumper Male to Male
 
 #
