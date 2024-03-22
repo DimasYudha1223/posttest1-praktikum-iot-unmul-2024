@@ -36,6 +36,7 @@ Link Video:
 #
 1. Design Schematic:
 #
+![rangkaianP3](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/2828860b-2b6d-4ecb-8a5c-0bd79a89c48c)
 
 
 
